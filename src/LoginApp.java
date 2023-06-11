@@ -4,6 +4,6 @@ import src.gui.LoginGUI;
 
 public class LoginApp {
     public static void main(String args[]){
-        new LoginGUI().setVisible(true);
+        new LoginGUI().setVisible(true); // declarando loginGui para deixo-lo visivel
     }
 }
